@@ -8,4 +8,6 @@ A shared home for open-source macOS drivers on hackintosh hardware: the kexts, t
 
 Projects keep their own repositories and licenses. OpenKext lists them, checks their releases, and collects test reports.
 
+For tools and AI agents: [llms.txt](https://openkext.github.io/llms.txt), a JSON API ([catalog.json](https://openkext.github.io/catalog.json), [api/hardware.json](https://openkext.github.io/api/hardware.json)), JSON Schemas, and [AGENTS.md](https://github.com/openkext/registry/blob/main/AGENTS.md).
+
 Start here: [submit a project](https://github.com/openkext/registry#submit-a-project) or [report a test](https://github.com/openkext/registry#report-a-test).
